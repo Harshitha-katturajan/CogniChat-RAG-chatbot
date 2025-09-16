@@ -1,0 +1,4 @@
+# .gitignore inside project folder
+.env
+__pycache__/
+*.pyc
